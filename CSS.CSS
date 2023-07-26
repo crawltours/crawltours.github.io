@@ -1,0 +1,17 @@
+
+
+.th-checkout-button-1, th-checkout-button{
+    color: #ffffff;
+    font-family: 'Criteriacf Bold';
+    font-size: 16px;
+    background: #4d4192;
+    padding: 14px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    border: none;
+    display: inline-block;
+    line-height: 8vh;
+}
